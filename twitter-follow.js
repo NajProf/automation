@@ -1,3 +1,9 @@
+//Open a terminal or command prompt and run the following command to install Puppeteer:
+//npm install puppeteer
+//Create a new file on your computer   , twitter-follow.js, and 
+//paste the complete script into this file.
+//Save the Script:
+//node twitter-follow.js
 const puppeteer = require('puppeteer');
 
 (async () => {
